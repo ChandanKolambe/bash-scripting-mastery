@@ -7,6 +7,7 @@
 | # | Topic | Script | Difficulty | Key Concepts |
 |---|------------------------|----------------------|------------|-------------|
 | 1 | **User Input** | `hello_world.sh` | ⭐ | `read`, variables | 
+| 2 | **Date Formatting**    | `current_date.sh`    | ⭐         | `date` |
 
 ### Try It Yourself:  
 ```bash
