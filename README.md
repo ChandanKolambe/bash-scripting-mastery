@@ -11,6 +11,7 @@
 | 3 | **Positional Params**  | `greet_user.sh`      | ⭐⭐       | `$1`, default values, conditionals |
 | 4 | **File Operations**    | `file_check.sh`      | ⭐⭐       | file tests, error handling |
 | 5 | **Basic Calculator**   | `simple_calc.sh`     | ⭐⭐       | arithmetic, input validation |
+| 6 | **Number Classification** | `even_odd.sh`    | ⭐         | modulo, case statements |
 
 ### Try It Yourself:  
 ```bash
