@@ -9,6 +9,7 @@
 | 1 | **User Input** | `hello_world.sh` | ⭐ | `read`, variables | 
 | 2 | **Date Formatting**    | `current_date.sh`    | ⭐         | `date` |
 | 3 | **Positional Params**  | `greet_user.sh`      | ⭐⭐       | `$1`, default values, conditionals |
+| 4 | **File Operations**    | `file_check.sh`      | ⭐⭐       | file tests, error handling |
 
 ### Try It Yourself:  
 ```bash
