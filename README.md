@@ -8,6 +8,7 @@
 |---|------------------------|----------------------|------------|-------------|
 | 1 | **User Input** | `hello_world.sh` | ⭐ | `read`, variables | 
 | 2 | **Date Formatting**    | `current_date.sh`    | ⭐         | `date` |
+| 3 | **Positional Params**  | `greet_user.sh`      | ⭐⭐       | `$1`, default values, conditionals |
 
 ### Try It Yourself:  
 ```bash
