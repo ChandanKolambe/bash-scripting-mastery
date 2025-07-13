@@ -3,13 +3,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  
 **Master Linux shell scripting through hands-on examples - start with basics and progress to real-world automation!**
 
-## 📚 Complete Learning Path (20 Exercises)  
+## 📚 Complete Learning Path
 | # | Topic | Script | Difficulty | Key Concepts |
 |---|------------------------|----------------------|------------|-------------|
 | 1 | **User Input** | `hello_world.sh` | ⭐ | `read`, variables | 
 | 2 | **Date Formatting**    | `current_date.sh`    | ⭐         | `date` |
 | 3 | **Positional Params**  | `greet_user.sh`      | ⭐⭐       | `$1`, default values, conditionals |
 | 4 | **File Operations**    | `file_check.sh`      | ⭐⭐       | file tests, error handling |
+| 5 | **Basic Calculator**   | `simple_calc.sh`     | ⭐⭐       | arithmetic, input validation |
 
 ### Try It Yourself:  
 ```bash
