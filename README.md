@@ -13,6 +13,7 @@
 | 5 | **Basic Calculator**   | `simple_calc.sh`     | ⭐⭐       | arithmetic, input validation |
 | 6 | **Number Classification** | `even_odd.sh`    | ⭐         | modulo |
 | 7 | **Directory Analysis** | `dir_analyzer.sh`    | ⭐⭐       | find, file stats |
+| 8 | **System Health Check**| `system_health.sh`   | ⭐⭐⭐     | free, df, uptime |
 
 ### Try It Yourself:  
 ```bash
